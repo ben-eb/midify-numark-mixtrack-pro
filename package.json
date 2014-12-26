@@ -1,0 +1,26 @@
+{
+  "name": "midify-numark-mixtrack-pro",
+  "version": "0.0.0",
+  "description": "midify compatible map for the Numark MixTrack Pro.",
+  "license": "MIT",
+  "homepage": "https://github.com/ben-eb/midify-numark-mixtrack-pro",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "therealbenbriggs@hotmail.com",
+    "url": "http://beneb.info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ben-eb/midify-numark-mixtrack-pro.git"
+  },
+  "keywords": [
+    "web audio",
+    "web-audio",
+    "web-midi",
+    "midi"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "object-assign": "^2.0.0"
+  }
+}
