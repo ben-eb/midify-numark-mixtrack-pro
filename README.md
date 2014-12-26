@@ -48,7 +48,7 @@ navigator.requestMIDIAccess().then(function(midiAccess) {
 
 ## Mapping
 
-[mixtrack](mixtrack.png)
+![mixtrack](mixtrack.png)
 
 Note that the mic gain control at the bottom of the device does not emit any MIDI messages. Substitute `deckX` for `deckA` or `deckB` depending on which side of the controller the control is.
 
