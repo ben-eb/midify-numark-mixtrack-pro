@@ -1,6 +1,6 @@
-# midify-numark-mixtrack-pro [![NPM version](https://badge.fury.io/js/midify-numark-mixtrack-pro.svg)](http://badge.fury.io/js/midify-numark-mixtrack-pro) [![Dependency Status](https://gemnasium.com/ben-eb/midify-numark-mixtrack-pro.svg)](https://gemnasium.com/ben-eb/midify-numark-mixtrack-pro)
+# [midify]-numark-mixtrack-pro [![NPM version](https://badge.fury.io/js/midify-numark-mixtrack-pro.svg)](http://badge.fury.io/js/midify-numark-mixtrack-pro) [![Dependency Status](https://gemnasium.com/ben-eb/midify-numark-mixtrack-pro.svg)](https://gemnasium.com/ben-eb/midify-numark-mixtrack-pro)
 
-> midify compatible map for the Numark MixTrack Pro.
+> [midify] compatible map for the Numark MixTrack Pro.
 
 Install via [npm](https://npmjs.org/package/midify-numark-mixtrack-pro):
 
@@ -10,7 +10,7 @@ npm install midify-numark-mixtrack-pro
 
 ## What it does
 
-[midify](https://github.com/ben-eb/midify) is a package that combines node's event emitter with the browser's web midi api, to make working with midi messages more palatable. This module provides handlers for the Numark MixTrack Pro, intended to be used with midify, but also provides a reference for the various controls on the device so that it can be used with other modules too!
+[midify] is a package that combines node's event emitter with the browser's web midi api, to make working with midi messages more palatable. This module provides handlers for the Numark MixTrack Pro, intended to be used with midify, but also provides a reference for the various controls on the device so that it can be used with other modules too!
 
 ## Example
 
@@ -203,3 +203,5 @@ Note that the mic gain control at the bottom of the device does not emit any MID
 ## License
 
 MIT © Ben Briggs
+
+[midify]: https://github.com/ben-eb/midify

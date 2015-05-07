@@ -6,7 +6,7 @@
   "homepage": "https://github.com/ben-eb/midify-numark-mixtrack-pro",
   "author": {
     "name": "Ben Briggs",
-    "email": "therealbenbriggs@hotmail.com",
+    "email": "beneb.info@gmail.com",
     "url": "http://beneb.info"
   },
   "repository": {
@@ -17,7 +17,8 @@
     "web audio",
     "web-audio",
     "web-midi",
-    "midi"
+    "midi",
+    "midify"
   ],
   "main": "index.js",
   "dependencies": {
