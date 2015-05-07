@@ -202,6 +202,6 @@ Note that the mic gain control at the bottom of the device does not emit any MID
 
 ## License
 
-MIT © Ben Briggs
+MIT © [Ben Briggs](http://beneb.info)
 
 [midify]: https://github.com/ben-eb/midify
